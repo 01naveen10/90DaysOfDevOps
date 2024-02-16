@@ -9,4 +9,4 @@ A)
     Infrastructure: It is the architecture of application from building stage to deploying handle issues etc
 
 Q)Why DevOps is Important, etc
-A)It can decrease the time taken to implement new feature or functionality and can also help in prioritising at the right areas such a sdevelopment etc instead of worryign about the deployment version management etc
+A)It can decrease the time taken to implement new feature or functionality for faster delivery of software and can also help in prioritising at the right areas such as development etc instead of worrying about the deployment version management etc
