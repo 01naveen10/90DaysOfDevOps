@@ -7,13 +7,13 @@ A) git is a version control system which helps us keep track of changes and the 
 A) Main branch in case of github and  master in git but both are same
 
 3. Can you explain the difference between Git and GitHub?
-A) git is the version control which can help keep track of files etc and git hub is the website where we can stores the repositires and access other peoples repos
+A) git is the version control which can help keep track of files etc and git hub is the website where we can stores these repositires and access other peoples repos
 
 4. How do you create a new repository on GitHub?
-A) create new repo with name etc by going to githu website
+A) create new repo with name etc by going to github website
 
 5. What is difference between local & remote repository? How to connect local to remote?
-A) local is present in our system an dremote is present ina  website like guthub which can be accessed bby others
+A) local is present in our system and remote is present in a website like github which can be accessed bby others. we have to set upstream and git origin to link both
 
 ## Tasks
 
@@ -27,7 +27,7 @@ task-2:
 - Create a repository named "Devops" on GitHub
 A)  using github website >> create repo
 - Connect your local repository to the repository on GitHub.
-A)  git set oriign upstream etc
+A)  git clone link
 - Create a new file in Devops/Git/Day-02.txt & add some content to it
 A)  mkdir Git >> touch Day-02.txt >> vim hello world and save 
 - Push your local commits to the repository on GitHub
