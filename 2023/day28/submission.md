@@ -30,3 +30,4 @@ add the private key of master to the credentails of jenkins and add host deatils
 
 A)
 add usermod permissions then restart instance and change the node host address as it is changed
+dowmload necessary packages like jdocker etc to run the jenkinsfile pipeline
