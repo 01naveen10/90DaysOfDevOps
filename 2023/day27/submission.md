@@ -42,4 +42,5 @@ stages {
     }
 ```
 
-to avoid docker already containing docker image error we use docker stage for it with args -p so that th eport mappin gwith ec2 and docker container will be done
+to avoid docker already containing docker image error we use docker stage for it with args -p so that the port mappin gwith ec2 and docker container will be done
+also add the files which are requred by the docker file to run in th egit repo so that when jenkins pipeline runs it can fetch those docuents as well
