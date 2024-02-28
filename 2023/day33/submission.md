@@ -24,14 +24,17 @@ default          - resources are created here
 4. access and resource limits to namespaces
 
 you can use 
+kubectl apply -f deploy.yaml --namespace myspace
 kubectl create namespace myspace
-or add it in deployment file
+and  add it in deployment file
+/////
 apiVersion
 kind
 metadata
     name
-    namespace
+    namespace: myspace
 
+kubectl get pods --namespace myspace
 done
 
 
